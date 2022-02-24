@@ -1,0 +1,13 @@
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/cucumber/TestContent.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/galen/locators/LocatorMap.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/enums/EnvType.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/pageObjects/login/LoginWithEmail.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/dataProvider/ConfigReader.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/pageObjects/CommonElements.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/pageObjects/PageObjectControl.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/galen/GalenTestInfoContainer.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/controls/FileReaderControl.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/galen/locators/UILocatorInjector.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/enums/BrowserType.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/controls/WebDriverControl.java
+/Users/lujain/SOEN 390/automation/AutomationUI/src/main/java/controls/PageObjectControl.java

@@ -8,6 +8,31 @@ object in all (running) tests definition file (see folder testsDefinition packag
 package controls;
 
 import org.openqa.selenium.WebDriver;
-import pageObjects.*;
+import pageObjects.CommonElements;
+import pageObjects.login.LoginWithEmail;
+
+
 public class PageObjectControl {
+    private WebDriver driver;
+    private CommonElements commonElementsPage;
+    private LoginWithEmail loginWithEmail;
+
+
+
+    public PageObjectControl(WebDriver driver){
+        this.driver = driver;
+    }
+
+    public PageObjectControl(){}
+
+    public CommonElements getHomePage(){
+        return (commonElementsPage == null) ? commonElementsPage = new CommonElements(driver) : commonElementsPage;
+    }
+
+    public LoginWithEmail getLoginWithEmailPage(){
+        return (loginWithEmail == null) ? loginWithEmail = new LoginWithEmail(driver) : loginWithEmail;
+
+    }
+
+
 }

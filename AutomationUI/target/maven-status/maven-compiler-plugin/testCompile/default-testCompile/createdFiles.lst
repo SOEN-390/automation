@@ -1,0 +1,5 @@
+CovidTracker/dataFiles/LoginReader.class
+CovidTracker/testsDefinition/LoginWithEmailPageSteps.class
+CovidTracker/testVariables/SharedValues.class
+LoginTest.class
+CovidTracker/RunCucumberTest.class
